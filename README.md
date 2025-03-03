@@ -6,6 +6,7 @@
 
 * ⚡ `I'm`: **22 years old**,
 * 👨‍💻 `Studying`: **Master's degree in CS**,
+* 💼 `Work`: **Sysadmin**,
 * 🌱 `Learning`: **Go**,
 * ❤️ `I love`: **Chonky Orange Cats**,
 * 💻 `Favorite lang`: **C**,
