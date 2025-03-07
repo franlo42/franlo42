@@ -14,4 +14,9 @@
 
 }
 
+<div align='center'> 
+<img src='https://github.com/user-attachments/assets/be7ecfe4-5de0-45c2-a2ea-3793ec3141db' width='25%'>   
+</div>
+<br>
+
 > "*If we pull together and commit ourselves, then we can push through anything.*", Mona the Octocat
