@@ -15,7 +15,7 @@
 }
 
 <div align='center'> 
-<img src='https://github.com/user-attachments/assets/be7ecfe4-5de0-45c2-a2ea-3793ec3141db' width='25%'>   
+<img src='https://github.com/user-attachments/assets/be7ecfe4-5de0-45c2-a2ea-3793ec3141db' width='50%'>   
 </div>
 <br>
 
